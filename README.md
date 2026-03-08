@@ -58,7 +58,6 @@ The analysis covers:
 - SciPy for hypothesis testing
 - Jupyter Notebook for analysis
 
-***Included the .venv (virtual environment) used for all libraries and tools***
 
 **Key Takeaways:**
 - Certain platforms dominate global sales, while others decline over time.
